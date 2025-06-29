@@ -1,0 +1,4 @@
+add 5 and 2 and assign to i.
+print i.
+print greeting.
+repeat 10 times print "hello world"
