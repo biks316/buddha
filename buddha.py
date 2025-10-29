@@ -1,6 +1,6 @@
 import re
 import sys
-# sdf i am the change i am neatx changes
+# sdf i am the change i am neatx changes fvs 
 class NaturalScript:
     def __init__(self):
         self.variables = {}
