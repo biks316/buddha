@@ -3,7 +3,7 @@ import sys
 
 class NaturalScript:
     def __init__(self):
-        self.variables = {}
+        self.variables = { }
 
     def execute(self, code):
         # Remove comments and clean lines
